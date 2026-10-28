@@ -1,4 +1,4 @@
-# MLOps for MCI
+# MLOps in Action
 
 In this course we will cover the follwoing topics and techs:
 
