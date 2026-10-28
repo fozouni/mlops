@@ -25,6 +25,10 @@ In this course we will cover the follwoing topics and techs:
 - Week-6————————————
   - Final Project = 4H  (Part-2)
 
-To see more educational contents see this URL
+To see more educational contents, see these URLs:
 
  🚩 https://www.m-fozouni.ir/shop/
+
+ or
+
+ 🚩 https://www.m-fozouni.ir/blog/
